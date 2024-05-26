@@ -1,0 +1,428 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a6a88f75-8224-4919-8982-9c16137de8da" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/.gradle/" />
+    <ignored path="$PROJECT_DIR$/build/" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="it.unibo.bls19Local" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/kotlin/prova/test.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="585">
+              <caret line="115" column="1" selection-start-line="115" selection-start-column="1" selection-end-line="115" selection-end-column="1" />
+              <folding>
+                <element signature="n#!!doc;n#sum#0" />
+                <element signature="n#!!block;n#sum#0" />
+                <element signature="n#!!block;n#counterCreate#0" />
+                <element signature="n#!!block;n#getInput#0" />
+                <element signature="n#!!block;n#submit#0" />
+                <element signature="n#!!block;n#curThread#0" />
+                <element signature="n#!!block;n#handle#0" />
+                <element signature="n#!!block;n#doJob#0" />
+                <element signature="n#!!doc;n#doJobCps#0" />
+                <element signature="n#!!block;n#doJobCps#0" />
+                <element signature="n#!!block;n#getInputCps#0" />
+                <element signature="n#!!block;n#submitCps#0" />
+                <element signature="n#!!doc;n#getInputAsynchCps#0" />
+                <element signature="n#!!block;n#getInputAsynchCps#0" />
+                <element signature="n#!!block;n#doJobAsynchCps#0" />
+                <element signature="n#!!block;n#delayedFun#0" />
+                <element signature="n#!!block;n#ioBoundFun#0" />
+                <element signature="n#!!block;n#activate#0" />
+                <element signature="n#!!block;n#launchAction#0" />
+                <element signature="n#!!block;n#launchDefault#0" />
+                <element signature="n#!!block;n#launchIO#0" />
+                <element signature="n#!!block;n#launchSingle#0" />
+                <element signature="n#!!block;n#massiveRun#0" />
+                <element signature="n#!!block;n#channelTest#0" />
+                <element signature="n#CounterMsg#0;n#CounterMsg#0" />
+                <element signature="e#11217#11385#0" />
+                <element signature="e#12270#12349#0" />
+                <element signature="e#12587#12790#0" />
+                <element signature="e#14537#14794#0" />
+                <element signature="e#14898#15368#0" />
+                <element signature="e#15406#15607#2" />
+                <element signature="e#15625#16063#0" />
+                <element signature="e#16094#16187#2" />
+                <element signature="e#16340#17068#2" />
+                <element signature="e#17086#17311#0" />
+                <element signature="e#17342#17512#2" />
+                <element signature="e#17556#17734#2" />
+                <element signature="e#17752#18413#0" />
+                <element signature="e#18444#19074#2" />
+                <element signature="e#19091#19265#0" />
+                <element signature="e#19327#19604#2" />
+                <element signature="e#19674#19953#2" />
+                <element signature="e#20033#20316#2" />
+                <element signature="e#20361#20589#2" />
+                <element signature="e#20634#20818#2" />
+                <element signature="e#20894#21544#2" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Script" />
+        <option value="Kotlin File" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/appLogic/BLSApplicationLogicChain.java" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/test/test.kts" />
+        <option value="$PROJECT_DIR$/build.gradle" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/prova/demo.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/prova/test.kt" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="7" />
+    <option name="y" value="20" />
+    <option name="width" value="1342" />
+    <option name="height" value="730" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="it.unibo.bls19Local" type="b2602c69:ProjectViewProjectNode" />
+              <item name="esercizio BLS n3" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="it.unibo.bls19Local" type="b2602c69:ProjectViewProjectNode" />
+              <item name="esercizio BLS n3" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="it.unibo.bls19Local" type="b2602c69:ProjectViewProjectNode" />
+              <item name="esercizio BLS n3" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="it.unibo.bls19Local" type="b2602c69:ProjectViewProjectNode" />
+              <item name="esercizio BLS n3" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="it.unibo.bls19Local" type="b2602c69:ProjectViewProjectNode" />
+              <item name="esercizio BLS n3" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="prova" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="android.sdk.path" value="$USER_HOME$/Android/Sdk" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553789076756" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../esercizio BLS n4/esercizio BLS n4" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/kotlin/test" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Kotlin.prova.TestKt">
+    <configuration name="MainChainBLSFramework" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.MainChainBLSFramework" />
+      <module name="issUnibo19.it.unibo.bls19Local.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="prova.TestKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="issUnibo19.it.unibo.bls19Local.main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="prova.TestKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.prova.TestKt" />
+        <item itemvalue="Application.MainChainBLSFramework" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a6a88f75-8224-4919-8982-9c16137de8da" name="Default Changelist" comment="" />
+      <created>1552991587638</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1552991587638</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-3" y="0" width="1372" height="771" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26963747" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3287037" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.28858024" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Build" order="10" weight="0.3287037" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Maven" order="7" weight="0.32930514" />
+      <window_info anchor="right" id="Gradle" order="8" weight="0.32930514" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/model/LedChain2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="31" column="24" selection-start-line="31" selection-start-column="24" selection-end-line="31" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/main/MainChainBLSFramework.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="19" column="55" lean-forward="true" selection-start-line="19" selection-start-column="55" selection-end-line="19" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/appLogic/BLSApplicationLogicChain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="68" column="71" lean-forward="true" selection-start-line="68" selection-start-column="71" selection-end-line="68" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/test/test.kts" />
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="34" column="15" lean-forward="true" selection-start-line="34" selection-start-column="15" selection-end-line="34" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/prova/demo.kt" />
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/prova/test.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="585">
+          <caret line="115" column="1" selection-start-line="115" selection-start-column="1" selection-end-line="115" selection-end-column="1" />
+          <folding>
+            <element signature="n#!!doc;n#sum#0" />
+            <element signature="n#!!block;n#sum#0" />
+            <element signature="n#!!block;n#counterCreate#0" />
+            <element signature="n#!!block;n#getInput#0" />
+            <element signature="n#!!block;n#submit#0" />
+            <element signature="n#!!block;n#curThread#0" />
+            <element signature="n#!!block;n#handle#0" />
+            <element signature="n#!!block;n#doJob#0" />
+            <element signature="n#!!doc;n#doJobCps#0" />
+            <element signature="n#!!block;n#doJobCps#0" />
+            <element signature="n#!!block;n#getInputCps#0" />
+            <element signature="n#!!block;n#submitCps#0" />
+            <element signature="n#!!doc;n#getInputAsynchCps#0" />
+            <element signature="n#!!block;n#getInputAsynchCps#0" />
+            <element signature="n#!!block;n#doJobAsynchCps#0" />
+            <element signature="n#!!block;n#delayedFun#0" />
+            <element signature="n#!!block;n#ioBoundFun#0" />
+            <element signature="n#!!block;n#activate#0" />
+            <element signature="n#!!block;n#launchAction#0" />
+            <element signature="n#!!block;n#launchDefault#0" />
+            <element signature="n#!!block;n#launchIO#0" />
+            <element signature="n#!!block;n#launchSingle#0" />
+            <element signature="n#!!block;n#massiveRun#0" />
+            <element signature="n#!!block;n#channelTest#0" />
+            <element signature="n#CounterMsg#0;n#CounterMsg#0" />
+            <element signature="e#11217#11385#0" />
+            <element signature="e#12270#12349#0" />
+            <element signature="e#12587#12790#0" />
+            <element signature="e#14537#14794#0" />
+            <element signature="e#14898#15368#0" />
+            <element signature="e#15406#15607#2" />
+            <element signature="e#15625#16063#0" />
+            <element signature="e#16094#16187#2" />
+            <element signature="e#16340#17068#2" />
+            <element signature="e#17086#17311#0" />
+            <element signature="e#17342#17512#2" />
+            <element signature="e#17556#17734#2" />
+            <element signature="e#17752#18413#0" />
+            <element signature="e#18444#19074#2" />
+            <element signature="e#19091#19265#0" />
+            <element signature="e#19327#19604#2" />
+            <element signature="e#19674#19953#2" />
+            <element signature="e#20033#20316#2" />
+            <element signature="e#20361#20589#2" />
+            <element signature="e#20634#20818#2" />
+            <element signature="e#20894#21544#2" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

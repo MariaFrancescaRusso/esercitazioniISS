@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/background_dark"
+    tools:context=".MainActivity">
+
+    <ToggleButton
+        android:id="@+id/buttonOnOff"
+        android:layout_width="224dp"
+        android:layout_height="185dp"
+        android:layout_marginStart="121dp"
+        android:layout_marginTop="436dp"
+        android:layout_marginEnd="121dp"
+        android:layout_marginBottom="121dp"
+        android:background="@android:color/holo_orange_dark"
+        android:fontFamily="cursive"
+        android:onClick="onClickBlink"
+        android:text="ON/OFF"
+        android:textAlignment="center"
+        android:textColor="@android:color/black"
+        android:textOff="OFF"
+        android:textOn="ON"
+        android:textSize="36sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.509"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/led"
+        android:layout_width="140dp"
+        android:layout_height="47dp"
+        android:layout_marginStart="135dp"
+        android:layout_marginTop="308dp"
+        android:layout_marginEnd="136dp"
+        android:layout_marginBottom="76dp"
+        android:background="@android:color/background_light"
+        app:layout_constraintBottom_toTopOf="@+id/buttonOnOff"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/label2"
+        android:layout_width="324dp"
+        android:layout_height="36dp"
+        android:layout_marginStart="43dp"
+        android:layout_marginEnd="44dp"
+        android:fontFamily="sans-serif-condensed-medium"
+        android:text="Selezionare la tipologia di led:"
+        android:textAlignment="center"
+        android:textColor="@android:color/white"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/label" />
+
+    <TextView
+        android:id="@+id/label"
+        android:layout_width="288dp"
+        android:layout_height="36dp"
+        android:layout_marginStart="61dp"
+        android:layout_marginTop="33dp"
+        android:layout_marginEnd="62dp"
+        android:fontFamily="sans-serif-smallcaps"
+        android:text="Benvenuto in BLS!"
+        android:textAlignment="center"
+        android:textColor="@android:color/white"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toTopOf="@+id/label2"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_chainStyle="spread_inside" />
+
+    <RadioGroup
+        android:id="@+id/radioGroup"
+        android:layout_width="402dp"
+        android:layout_height="165dp"
+        android:layout_marginStart="5dp"
+        android:layout_marginEnd="5dp"
+        android:layout_marginBottom="23dp"
+        app:layout_constraintBottom_toTopOf="@+id/led"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent">
+
+        <RadioButton
+            android:id="@+id/radioLedButton"
+            android:layout_width="156dp"
+            android:layout_height="36dp"
+            android:layout_marginStart="127dp"
+            android:layout_marginTop="37dp"
+            android:layout_marginEnd="128dp"
+            android:buttonTint="@android:color/holo_orange_dark"
+            android:checked="true"
+            android:text="Led Button"
+            android:textAlignment="center"
+            android:textColor="@android:color/white"
+            android:textSize="24sp"
+            android:textStyle="bold"
+            app:layout_constraintBottom_toTopOf="@+id/radioFlash"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/label2" />
+
+        <RadioButton
+            android:id="@+id/radioFlash"
+            android:layout_width="156dp"
+            android:layout_height="36dp"
+            android:layout_marginStart="127dp"
+            android:layout_marginEnd="128dp"
+            android:buttonTint="@android:color/holo_orange_dark"
+            android:text="Flash"
+            android:textAlignment="center"
+            android:textColor="@android:color/white"
+            android:textSize="24sp"
+            android:textStyle="bold"
+            app:layout_constraintBottom_toTopOf="@+id/radioLed"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/radioLedButton" />
+
+        <RadioButton
+            android:id="@+id/radioLed"
+            android:layout_width="156dp"
+            android:layout_height="36dp"
+            android:layout_marginStart="127dp"
+            android:layout_marginEnd="128dp"
+            android:layout_marginBottom="57dp"
+            android:buttonTint="@android:color/holo_orange_dark"
+            android:text="Led"
+            android:textAlignment="center"
+            android:textColor="@android:color/white"
+            android:textSize="24sp"
+            android:textStyle="bold"
+            app:layout_constraintBottom_toTopOf="@+id/led"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/radioFlash" />
+
+    </RadioGroup>
+
+</android.support.constraint.ConstraintLayout>

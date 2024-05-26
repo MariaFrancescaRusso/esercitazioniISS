@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="2p301">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../Libs/2p301.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../Libs/it.unibo.bls19Local-1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../Libs/it.unibo.qakactor-1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../Libs/uniboInterfaces.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../Libs/unibonoawtsupports.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../Libs/uniboInterfaces.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../Libs/unibonoawtsupports.jar!/" />
+    </SOURCES>
+  </library>
+</component>

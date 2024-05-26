@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="it.unibo.bls19Local-1.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../Libs/it.unibo.bls19Local-1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
